@@ -1,0 +1,5 @@
+bah9nine_brain_games.egg-info/*
+.venv/*
+*.lock
+*.pyc
+*.md
